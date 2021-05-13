@@ -1,7 +1,0 @@
-CREATE PROCEDURE "DBA"."US01"()
-BEGIN 
-
-SELECT * 
-FROM tbVilles
-
-END
