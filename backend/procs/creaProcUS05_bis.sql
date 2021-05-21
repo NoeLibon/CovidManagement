@@ -1,4 +1,4 @@
-ALTER PROCEDURE "DBA"."US05_bis"()
+CREATE PROCEDURE "DBA"."US05_bis"()
 
 BEGIN
 	SELECT persId, prenom, nom
